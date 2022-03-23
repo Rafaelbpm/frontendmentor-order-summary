@@ -20,7 +20,7 @@ The designs were created to the following widths:
 - Desaturated blue: hsl(224, 23%, 55%)
 - Dark blue: hsl(223, 47%, 23%) -->
 
-## Typography
+<!-- ## Typography
 
 ### Body Copy
 
@@ -29,4 +29,4 @@ The designs were created to the following widths:
 ### Font
 
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
-- Weights: 500, 700, 900
+- Weights: 500, 700, 900 -->
