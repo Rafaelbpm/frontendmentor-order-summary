@@ -18,19 +18,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-I've been studying HTML and CSS for the past 3 months and I realized that I wasn't really practicing and when I tried to build something I would simply forget everything I learned. Because of that I decided to spend the next few months just doing challenges and practicing.
+<!-- I've been studying HTML and CSS for the past 3 months and I realized that I wasn't really practicing and when I tried to build something I would simply forget everything I learned. Because of that I decided to spend the next few months just doing challenges and practicing.
 
 This is the easiest challenge on Frontend Mentor but it wasn't that easy for me. Doing things for the first time is never easy so what I decided was to build this challenge as many times as possible until I was comfortable with it and then do it on my own so here we are.
 
 This is the first time doing this challenge completely on my own and trying to use git as well.
 
-Thanks for reading this :D
+Thanks for reading this :D -->
 
 ---
 
 ### Screenshot
 
-My Final Design![My Final Design](./images/rafael_final_solution.png)
+<!-- My Final Design![My Final Design](./images/rafael_final_solution.png) -->
 
 ---
 
