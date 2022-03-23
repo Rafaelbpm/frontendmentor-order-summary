@@ -43,19 +43,19 @@ Thanks for reading this :D -->
 
 ## My process
 
-1 - Take a look at the project as a whole.
-2 - Identifying the key elements of the project.
-3 - Organize the project folder.
-4 - Organize all the assets into the right folders.
-5 - Look and study the style guide.
-6 - Initiate GIT repo.
-7 - HTML.
-8 - CSS.
-9 - Prepare the README file.
-10 - Upload project.
-11 - Add project to a live site server.
-12 - Share with the community and get feedback.
-13 - Improve project based on constructive feedback.
+- Take a look at the project as a whole.
+- Identifying the key elements of the project.
+- Organize the project folder.
+- Organize all the assets into the right folders.
+- Look and study the style guide.
+- Initiate GIT repo.
+- HTML.
+- CSS.
+- Prepare the README file.
+- Upload project.
+- Add project to a live site server.
+- Share with the community and get feedback.
+- Improve project based on constructive feedback.
 
 ---
 

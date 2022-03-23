@@ -7,7 +7,7 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
-## Colors
+<!-- ## Colors
 
 ### Primary
 
@@ -18,7 +18,7 @@ The designs were created to the following widths:
 
 - Very pale blue: hsl(225, 100%, 98%)
 - Desaturated blue: hsl(224, 23%, 55%)
-- Dark blue: hsl(223, 47%, 23%)
+- Dark blue: hsl(223, 47%, 23%) -->
 
 ## Typography
 
