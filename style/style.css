@@ -36,12 +36,16 @@ main {
 
 .card {
   background-color: var(--very-pale-blue);
-  padding: 15px;
+  /* padding: 15px; */
   border-radius: 12px;
   display: flex;
   flex-direction: column;
   align-content: center;
   text-align: center;
+}
+
+.card img .hero{
+  width: 100%;
 }
 
 .hero {
@@ -61,6 +65,7 @@ main {
 
 .plan {
   background-color: var(--pale-blue);
+  width: 90%;
   margin-top: 15px;
   display: flex;
   justify-content: space-around;
