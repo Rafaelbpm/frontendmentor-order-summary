@@ -26,22 +26,26 @@ body {
   min-height: 100vh;
 }
 
+button{
+  font-family: inherit;
+}
+
 main {
   max-width: 375px;
 }
 
 .card {
   background-color: var(--very-pale-blue);
+  padding: 15px;
   border-radius: 12px;
   display: flex;
   flex-direction: column;
   align-content: center;
   text-align: center;
-  padding: 15px;
 }
 
-.card img {
-  /* width: 100%; */
+.hero {
+  width: 100%;
 }
 
 .card h2 {
