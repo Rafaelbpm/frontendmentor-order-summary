@@ -12,7 +12,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: none;
 }
 
 img {
@@ -21,90 +20,9 @@ img {
 
 body {
   font-family: "Red Hat Display", sans-serif;
-  font-size: 16px;
   background-color: var(--pale-blue);
-  min-height: 100vh;
 }
 
-button{
+button {
   font-family: inherit;
-}
-
-main {
-  max-width: 375px;
-}
-
-.card {
-  background-color: var(--very-pale-blue);
-  /* padding: 15px; */
-  border-radius: 12px;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  text-align: center;
-}
-
-.card img .hero{
-  width: 100%;
-}
-
-.hero {
-  width: 100%;
-}
-
-.card h2 {
-  font-weight: 900;
-  color: var(--dark-blue);
-  margin-top: 15px;
-}
-
-.card p {
-  color: var(--desaturated-blue);
-  margin-top: 15px;
-}
-
-.plan {
-  background-color: var(--pale-blue);
-  width: 90%;
-  margin-top: 15px;
-  display: flex;
-  justify-content: space-around;
-  padding: 12px;
-  border-radius: 15px;
-}
-
-.plan button {
-  color: var(--bright-blue);
-  background: transparent;
-  font-weight: 700;
-  text-decoration: underline;
-}
-
-.buttons {
-  font-size: 15px;
-  font-weight: 700;
-  margin-top: 25px;
-}
-
-.btn-payment {
-  background-color: var(--bright-blue);
-  color: var(--very-pale-blue);
-  padding: 15px;
-  border-radius: 15px;
-  
-}
-
-.btn-cancel {
-  background-color: transparent;
-  color: var(--desaturated-blue);
-  font-size: 15px;
-}
-
-.attribution {
-  margin-top: 15px;
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
