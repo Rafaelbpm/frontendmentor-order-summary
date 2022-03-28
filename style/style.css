@@ -25,24 +25,38 @@ body {
 
 button {
   font-family: inherit;
+  font-weight: 700;
 }
 
-.card{
+.container {
+  height: 100vh;
+}
+
+.card {
   text-align: center;
   background-color: var(--very-pale-blue);
   max-width: 375px;
+}
+
+.plan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .attribution {
   font-size: 11px;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
 
+/* -------- media query -------- */
+
 @media (max-width: 375px) {
-.card{
-  background-color: aqua;
-}
+  .card {
+    background-color: aqua;
+  }
 }
