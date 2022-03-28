@@ -85,7 +85,7 @@ Areas that I need to improve and practice more:
 
 ### Useful resources
 
-- Kevin Powell [Hosting my site with Netlify](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) - 
+- Youtube Channel - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) -
 
 - Youtube Channel - [Dev World](https://www.youtube.com/channel/UCrm-HTaESqxJXyxMcZFOHng) For helping with Git, Github and Branches.
 
