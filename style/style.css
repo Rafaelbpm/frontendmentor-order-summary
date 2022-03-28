@@ -21,14 +21,17 @@ img {
 body {
   font-family: "Red Hat Display", sans-serif;
   background-color: var(--pale-blue);
-  justify-content: center;
 }
 
 button {
   font-family: inherit;
 }
 
-
+.card{
+  text-align: center;
+  background-color: var(--very-pale-blue);
+  max-width: 375px;
+}
 
 .attribution {
   font-size: 11px;
@@ -36,4 +39,10 @@ button {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media (max-width: 375px) {
+.card{
+  background-color: aqua;
+}
 }
