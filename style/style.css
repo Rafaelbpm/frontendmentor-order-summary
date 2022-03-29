@@ -23,6 +23,15 @@ body {
   background-color: var(--pale-blue);
 }
 
+h4 {
+  font-weight: 900;
+}
+
+p {
+  color: var(--desaturated-blue);
+  font-size: 1rem;
+}
+
 button {
   font-family: inherit;
   font-weight: 700;
@@ -38,33 +47,62 @@ button {
   max-width: 375px;
 }
 
+.card h2 {
+  font-weight: 900;
+}
+
+.description {
+  color: var(--desaturated-blue);
+  max-width: 250px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .plan {
   background-color: var(--pale-blue);
   width: 70%;
   border-radius: 10px;
   margin: 0 auto;
+  margin-top: 20px;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 
-.btn{
-border: none;
+.btn {
+  border: none;
 }
 
-.btn-change{
+.btn-change {
   background: transparent;
   color: var(--bright-blue);
   text-decoration: underline;
 }
 
-
-.btn-payment{
-
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-btn
-.attribution {
+.btn-payment {
+  color: var(--very-pale-blue);
+  background-color: var(--bright-blue);
+  width: 70%;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.btn-cancel {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  color: var(--desaturated-blue);
+}
+
+btn .attribution {
   font-size: 11px;
   text-align: center;
 }
