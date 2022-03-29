@@ -39,11 +39,31 @@ button {
 }
 
 .plan {
+  background-color: var(--pale-blue);
+  width: 70%;
+  border-radius: 10px;
+  margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 
+.btn{
+border: none;
+}
+
+.btn-change{
+  background: transparent;
+  color: var(--bright-blue);
+  text-decoration: underline;
+}
+
+
+.btn-payment{
+
+}
+
+btn
 .attribution {
   font-size: 11px;
   text-align: center;
