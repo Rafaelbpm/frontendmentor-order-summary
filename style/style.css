@@ -35,16 +35,19 @@ p {
 button {
   font-family: inherit;
   font-weight: 700;
+  border: none;
+  cursor: pointer;
 }
 
-.container {
+/* .container {
   height: 100vh;
-}
+} */
 
 .card {
   text-align: center;
   background-color: var(--very-pale-blue);
   max-width: 375px;
+  border-radius: 20px;
 }
 
 .card h2 {
@@ -61,7 +64,7 @@ button {
 
 .plan {
   background-color: var(--pale-blue);
-  width: 70%;
+  width: 80%;
   border-radius: 10px;
   margin: 0 auto;
   margin-top: 20px;
@@ -70,14 +73,15 @@ button {
   align-items: center;
 }
 
-.btn {
-  border: none;
-}
-
 .btn-change {
   background: transparent;
   color: var(--bright-blue);
   text-decoration: underline;
+}
+
+.btn-change:hover {
+  opacity: 80%;
+  text-decoration: none;
 }
 
 .buttons {
@@ -89,10 +93,14 @@ button {
 .btn-payment {
   color: var(--very-pale-blue);
   background-color: var(--bright-blue);
-  width: 70%;
+  width: 80%;
   padding: 15px;
   margin-top: 20px;
   border-radius: 10px;
+}
+
+.btn-payment:hover {
+  opacity: 80%;
 }
 
 .btn-cancel {
@@ -102,7 +110,11 @@ button {
   color: var(--desaturated-blue);
 }
 
-btn .attribution {
+.btn-cancel:hover {
+  color: var(--dark-blue);
+}
+
+.attribution {
   font-size: 11px;
   text-align: center;
 }
