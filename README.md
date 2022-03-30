@@ -37,7 +37,7 @@ My Final Design![My Final Design](./design/Final%20Design%20-%20Rafa.png)
 ### Links
 
 - Github | Solution URL: [Add solution URL here](https://github.com/Rafaelbpm/frontendmentor-order-summary)
-- Live Site URL: [Add live site URL here](https://rafa-qr-code.netlify.app/)
+- Live Site URL: [Add live site URL here](https://order-sumary-frontend.netlify.app/)
 
 ---
 
@@ -92,7 +92,7 @@ Areas that I need to improve and practice more:
 
 - Youtube Channel - [Red Stapler](https://www.youtube.com/c/RedStapler_channel) For helping with centering a DIV.
 
-- MDN - [Mdn Web Docs] (https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries) - Media Queries
+- MDN - [Mdn Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries) - Media Queries
 
 ---
 
