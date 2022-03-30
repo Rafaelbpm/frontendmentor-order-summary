@@ -21,10 +21,13 @@ img {
 body {
   font-family: "Red Hat Display", sans-serif;
   background-color: var(--pale-blue);
-  /* background-image: url("/images/pattern-background-mobile.svg");
+}
+
+main {
+  background-image: url("/images/pattern-background-mobile.svg");
   background-position: top;
   background-repeat: no-repeat;
-  background-size:cover ; */
+  background-size: cover;
 }
 
 h2 {
@@ -48,10 +51,6 @@ button {
 }
 
 .container {
-  background-image: url("/images/pattern-background-mobile.svg");
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -68,7 +67,7 @@ button {
 }
 
 .card img {
-  border-radius: 12px 12px 0 0;
+  border-radius: 20px 20px 0 0;
 }
 
 .card h2 {
