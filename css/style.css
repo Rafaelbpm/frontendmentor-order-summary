@@ -24,11 +24,11 @@ body {
 }
 
 main {
-  min-height: 100vh;
-  background-image: url("/images/pattern-background-mobile.svg");
-  background-position: top;
+  background: url('../images/pattern-background-desktop.svg');
+  background-size: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
+  width: 100%;
+  height: 100vh;
 }
 
 h2 {
@@ -149,9 +149,10 @@ button {
 
 /* -------- media query -------- */
 
-@media (max-width: 768px) {
-  body {
-    background-image: url(images\pattern-background-desktop.svg);
+@media screen and (max-width: 650px) {
+  main {
+    background: url('../images/pattern-background-mobile.svg');
+    background-size: 100%;
     background-repeat: no-repeat;
   }
 }
