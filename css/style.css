@@ -110,6 +110,7 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 
 .btn-payment {
@@ -120,9 +121,11 @@ button {
   margin-top: 20px;
   border-radius: 10px;
   box-shadow: 12px 12px 12px hsla(223, 47%, 23%, 0.1);
+  transition: 250ms ease-in-out;
 }
 
 .btn-payment:hover {
+  transform: translateY(-5px);
   opacity: 80%;
 }
 
