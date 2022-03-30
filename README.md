@@ -18,25 +18,25 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-<!-- I've been studying HTML and CSS for the past 3 months and I realized that I wasn't really practicing and when I tried to build something I would simply forget everything I learned. Because of that I decided to spend the next few months just doing challenges and practicing.
+I've been studying HTML and CSS for the past 3 months and I realized that I wasn't really practicing and when I tried to build something I would simply forget everything I learned. Because of that I decided to spend the next few months just doing challenges and practicing.
 
-This is the easiest challenge on Frontend Mentor but it wasn't that easy for me. Doing things for the first time is never easy so what I decided was to build this challenge as many times as possible until I was comfortable with it and then do it on my own so here we are.
+This is my second challenge on Frontend Mentor. Doing things for the first time is never easy so what I decided was to build this challenge as many times as possible until I was comfortable with it and then do it on my own so here we are.
 
 This is the first time doing this challenge completely on my own and trying to use git as well.
 
-Thanks for reading this :D -->
+Thanks for reading this :D
 
 ---
 
 ### Screenshot
 
-<!-- My Final Design![My Final Design](./images/rafael_final_solution.png) -->
+My Final Design![My Final Design](./design/Final%20Design%20-%20Rafa.png)
 
 ---
 
 ### Links
 
-- Github | Solution URL: [Add solution URL here](https://github.com/Rafaelbpm/frontendmentor-qr-code)
+- Github | Solution URL: [Add solution URL here](https://github.com/Rafaelbpm/frontendmentor-order-summary)
 - Live Site URL: [Add live site URL here](https://rafa-qr-code.netlify.app/)
 
 ---
@@ -45,6 +45,7 @@ Thanks for reading this :D -->
 
 - Take a look at the project as a whole.
 - Identifying the key elements of the project.
+- Break the project in small parts.
 - Organize the project folder.
 - Organize all the assets into the right folders.
 - Look and study the style guide.
@@ -85,9 +86,13 @@ Areas that I need to improve and practice more:
 
 ### Useful resources
 
-- Youtube Channel - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) -
+- Youtube Channel - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) - Css Tips
 
 - Youtube Channel - [Dev World](https://www.youtube.com/channel/UCrm-HTaESqxJXyxMcZFOHng) For helping with Git, Github and Branches.
+
+- Youtube Channel - [Red Stapler](https://www.youtube.com/c/RedStapler_channel) For helping with centering a DIV.
+
+- MDN - [Mdn Web Docs] (https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries) - Media Queries
 
 ---
 
