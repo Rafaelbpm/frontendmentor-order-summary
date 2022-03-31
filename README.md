@@ -30,7 +30,9 @@ Thanks for reading this :D
 
 ### Screenshot
 
-My Final Design![My Final Design](./design/Final%20Design%20-%20Rafa.png)
+My Final Design!
+
+[My Final Design](./design/Final%20Design%20-%20Rafa.png)
 
 ---
 
