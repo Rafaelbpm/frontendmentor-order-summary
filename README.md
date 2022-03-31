@@ -102,7 +102,7 @@ Areas that I need to improve and practice more:
 
 - Linkedin - [Rafael Martins](https://www.linkedin.com/in/rafaelbpm/)
 - Frontend Mentor - [@rafaelbpm](https://www.frontendmentor.io/profile/Rafaelbpm)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@kodamob](https://twitter.com/kodamob)
 - Behance - [Rafael Martins](https://www.behance.net/rafaelBPM)
 
 ---
